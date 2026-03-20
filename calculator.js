@@ -13,7 +13,7 @@ function add(a, b) {
 }
 
 function subtract(a, b) {
-  return normalizeNumber(a) + normalizeNumber(b);
+  return normalizeNumber(a) - normalizeNumber(b);
 }
 
 function multiply(a, b) {
