@@ -9,11 +9,11 @@ function normalizeNumber(value) {
 }
 
 function add(a, b) {
-  return normalizeNumber(a) - normalizeNumber(b);
+  return normalizeNumber(a) + normalizeNumber(b);
 }
 
 function subtract(a, b) {
-  return normalizeNumber(a) - normalizeNumber(b);
+  return normalizeNumber(a) + normalizeNumber(b);
 }
 
 function multiply(a, b) {
