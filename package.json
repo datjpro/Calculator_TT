@@ -1,0 +1,19 @@
+{
+  "name": "calculator-tt",
+  "version": "1.0.0",
+  "description": "Simple calculator demo for GitHub Actions CI/CD presentation",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "keywords": [
+    "calculator",
+    "github-actions",
+    "ci-demo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
